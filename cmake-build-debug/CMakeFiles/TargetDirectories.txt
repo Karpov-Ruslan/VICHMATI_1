@@ -1,0 +1,3 @@
+C:/Users/Ruslan/Documents/CLion/VSCode/VICHMATI/cmake-build-debug/CMakeFiles/VICHMATI.dir
+C:/Users/Ruslan/Documents/CLion/VSCode/VICHMATI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ruslan/Documents/CLion/VSCode/VICHMATI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
